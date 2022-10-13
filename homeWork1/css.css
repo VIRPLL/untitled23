@@ -1,0 +1,27 @@
+img {
+    width: 300px;
+}
+
+li {
+    background: dimgray;
+    color: white;
+}
+
+h1 {
+    background: gray;
+    color: yellow;
+}
+
+a {
+    text-decoration: none;
+    color: yellowgreen;
+}
+
+h2 {
+    background: dimgray;
+}
+
+p {
+    background: darkgray;
+    color: black;
+}
