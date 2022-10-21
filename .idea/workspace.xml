@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e169e69d-c014-40d9-af74-84e2b9b81799" name="Changes" comment="a">
-      <change afterPath="$PROJECT_DIR$/homeWork1/css.css" afterDir="false" />
+    <list default="true" id="e169e69d-c014-40d9-af74-84e2b9b81799" name="Changes" comment="asd">
+      <change afterPath="$PROJECT_DIR$/homeWork2/task1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homeWork2/task1/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homeWork2/task2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homeWork2/task2/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homeWork3/task1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homeWork3/task1/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homeWork3/task2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homeWork3/task2/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homeWork4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homeWork4/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homeWork1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/homeWork1/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,11 +47,13 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "list.type.of.created.stylesheet": "CSS"
+    "list.type.of.created.stylesheet": "CSS",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\untitled23\homeWork2\task1" />
       <recent name="$PROJECT_DIR$/homeWork1" />
     </key>
   </component>
@@ -56,6 +66,7 @@
       <option name="presentableId" value="Default" />
       <updated>1665653902790</updated>
       <workItem from="1665653906332" duration="2376000" />
+      <workItem from="1666387916035" duration="5531000" />
     </task>
     <task id="LOCAL-00001" summary="a">
       <created>1665657159773</created>
@@ -99,6 +110,7 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="a" />
-    <option name="LAST_COMMIT_MESSAGE" value="a" />
+    <MESSAGE value="asd" />
+    <option name="LAST_COMMIT_MESSAGE" value="asd" />
   </component>
 </project>
