@@ -99,8 +99,9 @@
 // let x = undefined;
 // let x = null;
 // let x = true;
-
-
+// let x = NaN;
+//
+//
 // if ((!!x !== true) || (!!x === false)) {
 //     x = "default";
 //     console.log(x);
