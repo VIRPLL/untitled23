@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e169e69d-c014-40d9-af74-84e2b9b81799" name="Changes" comment="aaa">
-      <change afterPath="$PROJECT_DIR$/js/homework4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/homework4/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/homework4/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/homework5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/homework5/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +18,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -44,6 +43,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "js.last.introduce.type": "LET",
     "last_opened_file_path": "C:/Users/User/IdeaProjects/untitled",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
@@ -76,7 +76,8 @@
       <workItem from="1667314554162" duration="1447000" />
       <workItem from="1667387497564" duration="2650000" />
       <workItem from="1667890968830" duration="7705000" />
-      <workItem from="1668153524452" duration="3912000" />
+      <workItem from="1668153524452" duration="4669000" />
+      <workItem from="1668598793581" duration="5172000" />
     </task>
     <task id="LOCAL-00001" summary="a">
       <created>1665657159773</created>
@@ -120,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667923028373</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="aaa">
+      <created>1668169487103</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1668169487103</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
