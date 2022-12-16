@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e169e69d-c014-40d9-af74-84e2b9b81799" name="Changes" comment="aaa">
-      <change afterPath="$PROJECT_DIR$/js/homework9/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/homework9/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/homework10/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/homework10/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/homework10/script1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/homework10/user.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +80,8 @@
       <workItem from="1667890968830" duration="7705000" />
       <workItem from="1668153524452" duration="4669000" />
       <workItem from="1668598793581" duration="7070000" />
-      <workItem from="1669137250249" duration="38546000" />
+      <workItem from="1669137250249" duration="40359000" />
+      <workItem from="1671185223616" duration="7632000" />
     </task>
     <task id="LOCAL-00001" summary="a">
       <created>1665657159773</created>
@@ -150,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670787380151</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="aaa">
+      <created>1670875430662</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1670875430662</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
