@@ -1,0 +1,23 @@
+.post {
+    width: 400px;
+    text-align: center;
+    margin: auto;
+}
+
+.comments {
+    margin: auto;
+    width: 1300px;
+    padding: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.comment {
+    border: 2px solid #000000;
+    background-color: #9ca0a8;
+    width: 250px;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 50px;
+}

@@ -1,0 +1,25 @@
+body {
+    padding: 50px;
+    margin: auto;
+    text-align: center;
+    font-size: 1.5em;
+}
+
+.posts {
+    padding: 50px;
+    margin: auto;
+    width: 1300px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.post {
+    background-color: #9ca0a8;
+    padding-bottom: 20px;
+    margin-bottom: 50px;
+    font-size: 18px;
+    text-align: center;
+    width: 220px;
+    border: 2px solid #000000;
+}
